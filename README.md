@@ -137,15 +137,6 @@ The project uses a subset of the [MovieLens Dataset](https://grouplens.org/datas
 
 ---
 
-## 📸 Screenshots
-
-> Input and output of the recommendation system running in Jupyter Notebook.
-
-![Result 1](https://user-images.githubusercontent.com/15246084/83949017-fdefa080-a83e-11ea-9b21-9c278a8dea45.png)
-![Result 2](https://user-images.githubusercontent.com/15246084/83949019-ffb96400-a83e-11ea-9607-3d1dbf5c3769.png)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! To get started:
@@ -155,13 +146,6 @@ Contributions are welcome! To get started:
 3. Commit your changes: `git commit -m "Add your feature"`
 4. Push the branch: `git push origin feature/your-feature`
 5. Open a pull request
-
----
-
-## 👤 Author
-
-**Rudra Jikadra**
-- GitHub: [@rudrajikadra](https://github.com/rudrajikadra)
 
 ---
 
