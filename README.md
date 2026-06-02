@@ -9,7 +9,7 @@ A beginner-friendly Python project that builds a **content-based Movie Recommend
 
 ---
 
-## 📖 Overview
+## 📖 Overview 
 
 This project demonstrates how to build a simple movie recommendation engine using **correlation** between user ratings. Given a movie title, the system finds other movies that have been rated similarly by users and recommends the top matches.
 
