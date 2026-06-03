@@ -43,20 +43,13 @@ Movie-Recommendation-System-Using-Python-and-Pandas/
 
 ## 🔧 Installation
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/rudrajikadra/Movie-Recommendation-System-Using-Python-and-Pandas
-cd Movie-Recommendation-System-Using-Python-and-Pandas
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 ```bash
 pip install pandas numpy jupyter ipywidgets
 ```
 
-### 3. Launch the Notebook
+### 2. Launch the Notebook
 
 ```bash
 jupyter notebook "Movie Recommender System.ipynb"
