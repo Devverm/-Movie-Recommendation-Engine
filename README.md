@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System Using Python and Pandas
+# 🎬 Movie Recommendation Engine
 
 A beginner-friendly Python project that builds a **content-based Movie Recommender System** using the Pandas library and correlation analysis on the MovieLens dataset. Enter any movie title and get the top 4 recommended movies instantly.
 
